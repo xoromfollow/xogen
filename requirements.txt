@@ -1,0 +1,8 @@
+# GenLayer Intelligent Contracts dependencies
+genlayer-py>=0.17.0
+
+# Optional: for local testing and simulation
+genlayer-test[sim]
+
+# Other useful packages (add more as needed)
+requests
